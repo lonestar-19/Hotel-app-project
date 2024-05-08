@@ -1,0 +1,8 @@
+body{
+    background-image: url("src/Images/coffeeimage.jpg");
+    background-size:100% 50vh;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-color: rgb(1, 0, 0);
+    position: relative;
+}
