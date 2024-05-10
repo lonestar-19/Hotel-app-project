@@ -1,9 +1,14 @@
-import React from 'react'
+// App.jsx
+import React from 'react';
+import BookingDetails from './BookingDetails';
 
-function App() {
+const App = () => {
   return (
-    <div></div>
-  )
-}
+    <div>
+      <h1>Hotel Booking App</h1>
+      <BookingDetails />
+    </div>
+  );
+};
 
-export default App
+export default App;
